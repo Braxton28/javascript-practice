@@ -3,7 +3,6 @@
 /* 
     Double 
     Line 
-    Commnet
 */
 
 console.log("Braxton Tejkl");
