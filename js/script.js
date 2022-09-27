@@ -5,5 +5,5 @@ console.log(str.length);
 let a = 7;
 console.log(a);
 
-const bigInt = BigInt (Number.MAX_SAFE_INTEGER);
-console.log(bigInt);
+const bigint = 12345678901896532147759012345678901234567890n;
+console.log(bigint);
